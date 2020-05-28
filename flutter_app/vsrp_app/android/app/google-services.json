@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "177469183220",
+    "firebase_url": "https://vsrp-app.firebaseio.com",
+    "project_id": "vsrp-app",
+    "storage_bucket": "vsrp-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177469183220:android:c2f3d811544072fc68faa1",
+        "android_client_info": {
+          "package_name": "com.yunweiliang.vsrp_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177469183220-07vurv9ds360c5hsdntjc7je757shbci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjBlXmj0QU0_fbVJ9tEXZ2CCzS7VO5WiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177469183220-07vurv9ds360c5hsdntjc7je757shbci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
